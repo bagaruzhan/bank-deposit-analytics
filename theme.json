@@ -1,0 +1,45 @@
+{
+  "name": "Soft Blue Gray Bank",
+  "dataColors": [
+    "#7FB3D5",
+    "#95A5A6",
+    "#B0C4DE",
+    "#566573",
+    "#D5DBDB",
+    "#82E0AA",
+    "#F8C471"
+  ],
+  "background": "#F4F6F6",
+  "foreground": "#2C3E50",
+  "tableAccent": "#7FB3D5",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "titleText": [
+          {
+            "color": {"solid": {"color": "#2C3E50"}},
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "labelText": [
+          {
+            "color": {"solid": {"color": "#34495E"}},
+            "fontSize": 11,
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "calloutValue": [
+          {
+            "color": {"solid": {"color": "#7FB3D5"}},
+            "fontSize": 28
+          }
+        ]
+      }
+    }
+  }
+}
